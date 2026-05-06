@@ -1,7 +1,7 @@
 
 const KEYWORDS = ["Asciugacapelli", "Gillette"];
 
-const MY_NICKNAME = "salvogel2";
+const MY_NICKNAME = "xxxxxxxx";
 
 const TWO_LEFT_WINDOW = 6;
 const ALTERNATING_WINDOW = 4;
