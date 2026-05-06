@@ -1,4 +1,4 @@
-const MY_NICKNAME = "salvogel2";
+const MY_NICKNAME = "xxxxxxx";
 
 const TWO_LEFT_WINDOW = 6;
 const ALTERNATING_WINDOW = 4;
